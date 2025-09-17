@@ -17,7 +17,7 @@ function Dashboard() {
   ];
 
   return (
-    <div className="p-6">
+    <div>
       <Navbar />
       <h1 className="text-2xl font-bold p-3">Dashboard</h1>
 
